@@ -99,7 +99,7 @@ void unionSet(int x,int y)
 
 显然为 $O(n)$。
 
-### 经典题目
+## 经典题目
 
 [[NOI2015]程序自动分析](https://www.lydsy.com/JudgeOnline/problem.php?id=4195)
 
